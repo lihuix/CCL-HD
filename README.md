@@ -4,7 +4,7 @@ This is a Pytorch implementation of the paper. ()
 ![network](CCL-HD-main/figures/对比聚类论文图.png)
 ## Performance
 
-The representation encoder of the proposed SACC is ResNet34.
+The representation encoder of the proposed CCL-HD is ResNet34.
 
 |    Dataset    | NMI  | ACC  | ARI  |
 | :-----------: | :--: | :--: | :--: |
@@ -27,6 +27,6 @@ The representation encoder of the proposed SACC is ResNet34.
 
 ## Configuration
 
-There is a configuration file "config/config.yaml", where one can edit both the training and test options.# CC-HCL
+There is a configuration file "config/config.yaml", where one can edit both the training and test options.# CCL-HD
 This is the relevant code for my thesis.
 # CCL-HD
