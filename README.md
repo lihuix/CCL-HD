@@ -1,7 +1,7 @@
 This is a Pytorch implementation of the paper. ()
 
-![network](figures/图1.png)
-![network](figures/对比聚类论文图.png)
+![network](CCL-HD-main/figures/图1.png)
+![network](CCL-HD-main/对比聚类论文图.png)
 ## Performance
 
 The representation encoder of the proposed SACC is ResNet34.
